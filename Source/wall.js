@@ -683,7 +683,7 @@ var Wall = new Class({
         return isMobile;
         */
         
-        return 'ontouchstart' in document.documentElement;
+        return 'ontouchstart' in window || navigator.msMaxTouchPoints;
     },
     
     /**
