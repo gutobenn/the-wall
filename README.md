@@ -3,7 +3,7 @@
 The Wall - A Javascript plugin for Mootools
 ===========================================
 
-The Wall is a plugin for Mootools javascript framework designed to create walls of infinite dimensions. Its flexibility allows different applications, from infinite wall mode to Coda slider mode. The Wall creates compatible interfaces with the newer browsers and iPhone and iPad mobile devices.
+The Wall is a plugin for Mootools javascript framework designed to create walls of infinite dimensions. Its flexibility allows different applications, from infinite wall mode to Coda slider mode. The Wall creates compatible interfaces with the newer browsers and mobile devices.
 
 Urls The Wall
 =============
